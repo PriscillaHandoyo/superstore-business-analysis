@@ -38,7 +38,7 @@ superstore-analysis/
 
 ## Dashboard
 
-[Link to Tableau Public dashboard] ← add this once published
+[[Link to Tableau Public dashboard](https://public.tableau.com/app/profile/priscilla.handoyo/viz/superstore-dashboard_17766406232910/ExecutiveOverview?publish=yes)] ← add this once published
 
 ## Project Walkthrough
 
