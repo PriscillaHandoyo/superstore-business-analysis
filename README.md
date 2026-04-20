@@ -13,12 +13,14 @@ and customer segments.
 
 ## Project Structure
 
+```
 superstore-analysis/
 ├── data/ # Raw data (see data/README.md for download)
 ├── notebooks/ # EDA and SQL analysis notebooks
 ├── sql/ # SQL query bank
 ├── reports/ # Executive summary and dashboard screenshots
 └── README.md
+```
 
 ## Key Findings
 
